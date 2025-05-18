@@ -23,20 +23,6 @@ Its build system allows to automatically download/extract the firmware, apply th
 
 Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
 
-# Changelog (s5e8825)
-[Click Here](https://github.com/Ksawlii-Android-Repos/UN1CA-s5e8825/blob/fourteen-essi/changelog.md)
-
-# Devices (s5e8825)
-- Galaxy A53 (a53x): Supported, Maintained (A536B/E)
-- Galaxy A25 (a25x): Supported, Maintained (A256E)
-- Galaxy A33 (a33x): Supported, Maintained (A336B/E)
-- Galaxy M34 (m34x): Supported, Maintained (M346B) (Dead charging bug)
-- Galaxy F34 (f34x): Supported, Maintained (E346B) (Dead charging bug)
-- Galaxy M33 (m33x): Not Supported, Not Maintained
-
-# Supported firmware (s5e8825)
-[Click Here](https://github.com/Ksawlii-Android-Repos/UN1CA-s5e8825/blob/fourteen-essi/firmwares.md)
-
 # Features
 - Based on the latest stable Galaxy S23/S23 FE firmware
 - Galaxy AI support
