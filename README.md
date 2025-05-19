@@ -69,4 +69,5 @@ A big thanks goes to the following for their invaluable contributions in no part
 - **[Flopster101](https://github.com/Flopster101)** for [FloppyKernel](https://github.com/FlopKernel-Series/flop_s5e8825_kernel/)
 - **[alyassin105g](t.me/alyassin105g)** for fixing Adaptive Refresh Rate color flickering
 - **[Mahdi](https://github.com/imahdisalimi)** for fixing live wallpapers
-- *All the UN1CA-s5e8825 project contributors and testers*
+- **[Ksawlii](https://github.com/ksawlii)** for big help <3
+- *All the UN1CA-s5e8535 project contributors and testers*
